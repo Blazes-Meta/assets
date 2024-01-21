@@ -2,7 +2,7 @@
 Bezeichnung | Farbe
 ----------- | ------
 Akzent | ![#7E27D2](https://placehold.it/15/7E27D2/000000?text=) `#7E27D2`
-Hintergrund | linear von ![#6027d2](https://placehold.it/15/6027d2/000000?text=) `#6027d2` nach ![#9c27d2](https://placehold.it/15/9c27d2/000000?text=) `#9c27d2`
+Akzentverlauf | ![#6027d2](https://placehold.it/15/6027d2/000000?text=) `#6027d2` nach ![#9c27d2](https://placehold.it/15/9c27d2/000000?text=) `#9c27d2`
 Logo | ![#e4e6e7](https://placehold.it/15/e4e6e7/000000?text=) `#e4e6e7`
 
 ## Schriftarten
