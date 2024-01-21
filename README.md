@@ -9,3 +9,4 @@ Logo | ![#e4e6e7](https://placehold.it/15/e4e6e7/000000?text=) `#e4e6e7`
 Verwendung | Name
 ---------- | ----
 Logo | [Anton](https://fonts.google.com/specimen/Anton)
+Überschriften | [Fugaz One](https://fonts.google.com/specimen/Fugaz+One)
