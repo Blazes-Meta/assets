@@ -10,3 +10,4 @@ Verwendung | Name
 ---------- | ----
 Logo | [Anton](https://fonts.google.com/specimen/Anton)
 Überschriften | [Fugaz One](https://fonts.google.com/specimen/Fugaz+One)
+Text | [Rubik Regular](https://fonts.google.com/specimen/Rubik)
