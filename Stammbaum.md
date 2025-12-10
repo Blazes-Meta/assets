@@ -2,16 +2,24 @@
 ---
 config:
     flowchart:
-        curve: linear
+        curve: basis
         nodeSpacing: 10
         rankSpacing: 50
         padding: 6
+    theme: dark
+    themeVariables:
+        edgeLabelBackground: '#1f1f1fff'
+        clusterBkg: '#953030ff'
+        clusterBorder: '#451414ff'
 ---
 flowchart BT
 
 Annhilati[Anton]
-
-Marek
+Annhilati -- McCreator Discord ---> controllmaster[Viko]
+Annhilati -- THeJoCraft Discord ---> Wasserschaden[Damian Lunginbühl]
+Wasserschaden --> MinMag
+controllmaster --> Hacki
+controllmaster --> Mesi_Legends
 
 %% BEGINN Kontext St. Benno Gymnasium
 
@@ -30,6 +38,7 @@ subgraph StBennoGymnasium [St. Benno Gymnasium]
     Syntheria
     Feite
     PearlyPinky[Keon]
+    Matthias
 end
 Syntheria --> FAnton
 
@@ -74,9 +83,14 @@ subgraph LRSSchule [LRS-Schule]
     Danilo[Danilo]
 end
 
+%% BEGINN Kontext BasisZock
+
 Henri --> BasisZock
 BasisZock --> BasisZockViewer
 BasisZock -- Valorant --> FAnton
+BasisZock --> TheVoid[Julius]
+BasisZock -- Grundschule --> SirHelius[Marek]
+BasisZock -- Grundschule --> Googelha[Georg]
 subgraph BasisZockViewer [ ]
     AnnanasTV
     MoritzTheEdgelord
@@ -84,6 +98,7 @@ end
 
 AnnanasTV --> Zero
 AnnanasTV --> RonjaRonjason
+AnnanasTV --> Momo
 
 %% BEGINN Kontext Comfy
 
@@ -91,6 +106,8 @@ Annhilati --> Comfy
 Comfy --> Crafter
 Comfy --> luke
 Comfy --> Ferdi
+Comfy --> Otal
+Comfy --> Slayjanhd
 Comfy --> Xwink[X-wink]
 Comfy --> Arabroke['Schnitzel Man']
 
