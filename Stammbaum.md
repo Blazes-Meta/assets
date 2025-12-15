@@ -39,8 +39,11 @@ subgraph StBennoGymnasium [St. Benno Gymnasium]
     Feite
     PearlyPinky[Keon]
     Matthias
+    Gwanchy[Tim]
 end
 Syntheria --> FAnton
+Gwanchy --> AZ-Gaming[unuchikweples / Vincent]
+AZ-Gaming --> WaveAnton
 
 joshi --> Schlapperklange
 
