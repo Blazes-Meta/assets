@@ -89,6 +89,7 @@ Henri --> BasisZock
 BasisZock --> BasisZockViewer
 BasisZock -- Valorant --> FAnton
 BasisZock --> TheVoid[Julius]
+BasisZock --> Bioladen
 BasisZock -- Grundschule --> SirHelius[Marek]
 BasisZock -- Grundschule --> Googelha[Georg]
 subgraph BasisZockViewer [ ]
